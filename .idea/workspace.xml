@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88cda745-421c-4008-bafa-3e442185216e" name="Changes" comment="My first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "student-manishagore"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/student-manishagore/TravelandTourismManagement.git",
+    "accountId": "fb2fd259-b458-4f15-a5ae-bb1bce3844c7"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nvBJWDgFa6Hvmu1XcYy9icINbV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.About.executor": "Run",
+    "Application.AddCustomer.executor": "Run",
+    "Application.BookHotel.executor": "Run",
+    "Application.BookPackage.executor": "Run",
+    "Application.CheckHotels.executor": "Run",
+    "Application.CheckPackage.executor": "Run",
+    "Application.Con.executor": "Run",
+    "Application.CustomerUpdate.executor": "Run",
+    "Application.Dashboard.executor": "Run",
+    "Application.DeleteDetails.executor": "Run",
+    "Application.Destinations.executor": "Run",
+    "Application.ForgetPassword.executor": "Run",
+    "Application.GooglePay.executor": "Run",
+    "Application.Loading.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Payment.executor": "Run",
+    "Application.Paytm.executor": "Run",
+    "Application.Signup.executor": "Run",
+    "Application.Splash.executor": "Run",
+    "Application.ViewBookedHotel.executor": "Run",
+    "Application.ViewCustomer.executor": "Run",
+    "Application.ViewPackage.executor": "Run",
+    "Application.desti.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/Travel Management System/src/icons",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/Travel Management System/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\Travel Management System\src\icons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dashboard">
+    <configuration name="About" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TravelSystem.About" />
+      <module name="Travel Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TravelSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dashboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TravelSystem.Dashboard" />
+      <module name="Travel Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TravelSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TravelSystem.DeleteDetails" />
+      <module name="Travel Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TravelSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglePay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TravelSystem.GooglePay" />
+      <module name="Travel Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TravelSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TravelSystem.Splash" />
+      <module name="Travel Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TravelSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dashboard" />
+        <item itemvalue="Application.Splash" />
+        <item itemvalue="Application.DeleteDetails" />
+        <item itemvalue="Application.About" />
+        <item itemvalue="Application.GooglePay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88cda745-421c-4008-bafa-3e442185216e" name="Changes" comment="" />
+      <created>1729843602769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729843602769</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1731236105602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731236105602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TravelSystem/Login.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
